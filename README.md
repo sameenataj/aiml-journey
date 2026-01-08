@@ -1,2 +1,2 @@
-# aiml-journey
+# beginning with python
 aiml-journey
